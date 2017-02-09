@@ -1,0 +1,2 @@
+# ActivityDialog
+l利用activity做出弹出的类似dialog的效果
